@@ -44,15 +44,15 @@ Weapons = {
 	['WEAPON_AUTOSHOTGUN'] = {
 		label = 'Escopeta Sweeper',
 		description = '¿Cuántos instrumentos antidisturbios eficaces te puedes guardar en los pantalones? Vale, dos. Pero este es el otro.',
-		weight = '????',
-		durability = '????',
-		ammoname = '????'
+		weight = 2850,
+		durability = 0.05,
+		ammoname = 'ammo-shotgun'
 	},
 	['WEAPON_BALL'] = {
 		label = 'Pelota',
 		description = '',
 		weight = 149,
-		durability = '????',
+		durability = 1,
 	},
 	['WEAPON_BAT'] = {
 		label = 'Bate de béisbol',
